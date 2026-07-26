@@ -4,11 +4,21 @@
 
 <!-- dash-content-start -->
 
-A real-time, interactive demonstration of [Cloudflare Workflows](https://developers.cloudflare.com/workflows) with live updates via WebSockets and Durable Objects. This template showcases durable multi-step workflows with time-based delays, event-driven pauses, and real-time status visualization.
+A real-time, interactive demonstration of [Cloudflare Workflows](https://developers.cloudflare.com/workflows) with live updates via WebSockets and Durable Objects. This template showcases durable m[...]
 
 <!-- dash-content-end -->
 
+## 🎨 Aperçu du Template
+
 ![Cloudflare Workflows Starter Template](assets/template-screenshot.png)
+
+### ✨ Fonctionnalités principales
+
+- ⚡ **Temps réel** - Communication en direct avec WebSockets
+- 🔄 **Mises à jour en direct** - Interface réactive et instantanée
+- 📦 **Durable Objects** - Stockage persistant et fiable
+- 🚀 **Performance optimisée** - Architecture Cloudflare Workers
+- 💼 **E-commerce prêt** - Template complet pour boutique en ligne
 
 ## Getting Started
 
