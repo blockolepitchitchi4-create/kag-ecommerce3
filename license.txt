@@ -1,0 +1,16 @@
+Usage allowed: personal use; commercial use requires a separate paid license. See LICENSE for open-source terms.
+
+Fichier : license.txt
+Description : précise l'usage inclus dans le pack vendu sur Gumroad.
+
+Usage permis :
+- Vous pouvez utiliser et modifier le code pour vos projets personnels.
+- Vous pouvez déployer et utiliser le template pour vos sites et démonstrations.
+
+Usage commercial (limité) :
+- La licence MIT (fichier LICENSE) permet une utilisation large du code.
+- Si vous souhaitez vendre ou fournir le template à des clients en tant que service d'installation, contactez l'auteur pour obtenir une licence commerciale payante.
+
+Support & contact : contact@example.com
+
+Remplacez contact@example.com par votre adresse de contact avant publication.
